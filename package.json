@@ -1,0 +1,32 @@
+{
+  "name": "divar-init",
+  "version": "0.0.1",
+  "description": "small library to collect initial state for divar client app",
+  "main": "lib/index.js",
+  "scripts": {
+    "dev": "",
+    "build": "node lib/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmdilloo/divar-menu.git"
+  },
+  "keywords": [
+    "divar",
+    "divar.ir",
+    "divar-menu",
+    "divar-crawler",
+    "onlineshop-menu",
+    "ircategories"
+  ],
+  "author": "ahmad illoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmdilloo/divar-menu/issues"
+  },
+  "homepage": "https://github.com/ahmdilloo/divar-menu#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
